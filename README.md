@@ -1,7 +1,7 @@
 
 ![Banner](https://github.com/user-attachments/assets/cdb211f2-e8eb-4ea0-b6c3-09b948e49603)
 
-## About me 🧩
+## About Me 🧩
 - 🎓 CS Student @ University of Virginia's School of Engineering
 - 💡 I enjoy expressing creativity through code: video games, robotics, web design, and more
 - 💻 Interested in Quantum Computing
